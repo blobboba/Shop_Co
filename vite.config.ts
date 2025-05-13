@@ -1,7 +1,7 @@
-﻿import { defineConfig } from 'vite'
+import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-    base: '/Shop_Co/', // 👈 имя репозитория, важно!
-    plugins: [react()],
+  base: '/Shop_Co/',  // Указание правильного пути для GitHub Pages
+  plugins: [react()],
 })
