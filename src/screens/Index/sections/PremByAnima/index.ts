@@ -1,0 +1,1 @@
+export { PremByAnima } from "./PremByAnima";

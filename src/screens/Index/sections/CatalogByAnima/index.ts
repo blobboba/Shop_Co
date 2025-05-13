@@ -1,0 +1,1 @@
+export { CatalogByAnima } from "./CatalogByAnima";
